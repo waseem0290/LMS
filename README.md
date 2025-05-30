@@ -1,7 +1,9 @@
-# S3Aws – Static Website Hosting on AWS S3
+# 🌐 WEB LINK
 
-This project demonstrates how to host a static website using Amazon S3 with a basic HTML file.
+http://waseemsbucket77.s3-website.eu-north-1.amazonaws.com
 
-## 🌐 Live Demo
+# CREDENTIALS
 
-http://rehaansbucket.s3-website.eu-north-1.amazonaws.com
+admin@example.com
+
+password123
